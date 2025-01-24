@@ -1,0 +1,4 @@
+Packet with TTL=0 discarded: ATTACK
+Packet with TTL=0 discarded: OF
+Packet with TTL=0 discarded: victory
+Packet with TTL=0 discarded: THE

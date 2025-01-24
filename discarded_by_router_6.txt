@@ -1,0 +1,2 @@
+Packet with TTL=0 discarded: OF
+Packet with TTL=0 discarded: OF

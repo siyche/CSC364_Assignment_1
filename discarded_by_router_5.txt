@@ -1,0 +1,11 @@
+Packet with TTL=0 discarded: a
+Packet with TTL=0 discarded: ATTACK
+Packet with TTL=0 discarded: of
+Packet with TTL=0 discarded: OF
+Packet with TTL=0 discarded: victory
+Packet with TTL=0 discarded: battle
+Packet with TTL=0 discarded: THE
+Packet with TTL=0 discarded: the
+Packet with TTL=0 discarded: weapon
+Packet with TTL=0 discarded: an
+Packet with TTL=0 discarded: destroy
